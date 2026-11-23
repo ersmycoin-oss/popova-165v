@@ -1,0 +1,119 @@
+[
+  {
+    "src": "assets/orbit/00.webp",
+    "small": "assets/orbit/00-small.webp",
+    "caption": "Главный фасад",
+    "source": 22,
+    "duration": 1900,
+    "focusX": 0.5,
+    "focusY": 0.5
+  },
+  {
+    "src": "assets/orbit/01.webp",
+    "small": "assets/orbit/01-small.webp",
+    "caption": "Фасад и торец",
+    "source": 24,
+    "duration": 1250,
+    "focusX": 0.5,
+    "focusY": 0.4509
+  },
+  {
+    "src": "assets/orbit/02.webp",
+    "small": "assets/orbit/02-small.webp",
+    "caption": "Торец со стороны въезда",
+    "source": 25,
+    "duration": 1700,
+    "focusX": 0.3939,
+    "focusY": 0.4327
+  },
+  {
+    "src": "assets/orbit/03.webp",
+    "small": "assets/orbit/03-small.webp",
+    "caption": "Торец со двора",
+    "source": 5,
+    "duration": 1550,
+    "focusX": 0.5,
+    "focusY": 0.5022
+  },
+  {
+    "src": "assets/orbit/04.webp",
+    "small": "assets/orbit/04-small.webp",
+    "caption": "Тыльный фасад под углом",
+    "source": 4,
+    "duration": 1200,
+    "focusX": 0.5606,
+    "focusY": 0.5
+  },
+  {
+    "src": "assets/orbit/05.webp",
+    "small": "assets/orbit/05-small.webp",
+    "caption": "Тыльный фасад",
+    "source": 1,
+    "duration": 1800,
+    "focusX": 0.5,
+    "focusY": 0.5841
+  },
+  {
+    "src": "assets/orbit/06.webp",
+    "small": "assets/orbit/06-small.webp",
+    "caption": "Тыльный фасад и окружение",
+    "source": 3,
+    "duration": 1250,
+    "focusX": 0.475,
+    "focusY": 0.5
+  },
+  {
+    "src": "assets/orbit/07.webp",
+    "small": "assets/orbit/07-small.webp",
+    "caption": "Тыльный фасад и второй торец",
+    "source": 6,
+    "duration": 1200,
+    "focusX": 0.5,
+    "focusY": 0.5085
+  },
+  {
+    "src": "assets/orbit/08.webp",
+    "small": "assets/orbit/08-small.webp",
+    "caption": "Второй торец со двора",
+    "source": 8,
+    "duration": 1650,
+    "focusX": 0.5,
+    "focusY": 0.5866
+  },
+  {
+    "src": "assets/orbit/09.webp",
+    "small": "assets/orbit/09-small.webp",
+    "caption": "Второй торец с улицы",
+    "source": 29,
+    "duration": 1650,
+    "focusX": 0.5,
+    "focusY": 0.5727
+  },
+  {
+    "src": "assets/orbit/10.webp",
+    "small": "assets/orbit/10-small.webp",
+    "caption": "Фасад со стороны перекрёстка",
+    "source": 28,
+    "duration": 1250,
+    "focusX": 0.6295,
+    "focusY": 0.5137
+  },
+  {
+    "src": "assets/orbit/11.webp",
+    "small": "assets/orbit/11-small.webp",
+    "caption": "Фасад на улицу Попова",
+    "source": 19,
+    "duration": 1650,
+    "focusX": 0.5,
+    "focusY": 0.5018
+  },
+  {
+    "src": "assets/orbit/12.webp",
+    "small": "assets/orbit/12-small.webp",
+    "caption": "Главный фасад и въезд",
+    "source": 20,
+    "duration": 1250,
+    "focusX": 0.5,
+    "focusY": 0.5629
+  }
+]
